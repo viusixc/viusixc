@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm viusixc 👋</h1>
 
-<!--
-**viusixc/viusixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 Who am I?
+I'm a Data Analyst in training with a strong focus on  
+**Python, SQL, dashboarding, automation, and clean data workflows.**  
+I love transforming raw data into insights that actually matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I'm currently working on
+- Learning Python for Data Analysis (Pandas, NumPy)
+- Building weekly mini-projects for my portfolio
+- Improving my SQL fundamentals (PostgreSQL + BigQuery)
+- Creating clean dashboards in Power BI & Google Looker Studio
+
+---
+
+## 🔧 Tools I use
+**Languages:**  
+Python · SQL  
+
+**Data Tools:**  
+Jupyter Notebook · Pandas · Power BI · Excel · Google Sheets  
+
+**Dev & Workflow:**  
+Git · GitHub · VS Code
+
+---
+
+## 📬 How to reach me
+- GitHub: https://github.com/YOURNAME  
+- Email (
